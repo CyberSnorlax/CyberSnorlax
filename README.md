@@ -1,6 +1,7 @@
 # 👋 Hi, I'm William!
 
-🚀 **Welcome to my GitHub Profile!** You are visitor number ![profile views](https://visitor-badge.laobi.icu/badge?page_id=cybersnorlax.cybersnorlax)
+🚀 **Welcome to my GitHub Profile!** You are visitor number! [Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
 
 📚 **About Me**:
 - 🔭 I’m currently a Master Student at Columbia studying [Quantitative Methods in Social Science](https://qmss.columbia.edu/content/focuses)...
