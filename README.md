@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm William!
 
-<!--
-**CyberSnorlax/CyberSnorlax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Welcome to my GitHub Profile!** You are visitor number ![profile views](https://visitor-badge.laobi.icu/badge?page_id=cybersnorlax.cybersnorlax)
 
-Here are some ideas to get you started:
+📚 **About Me**:
+- 🔭 I’m currently a Master Student at Columbia studying [Quantitative Methods in Social Science](https://qmss.columbia.edu/content/focuses)...
+- 🌱 Learning NLP, machine learning and data anlaytics techniques.
+- 💬 Ask me about strategy consulting, NLP and data science projects, badminton, fishing and more.
 
-- 🔭 I’m current a Master Student at Columbia studying Quantitative Methods in Social Science...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect**:
+- <a href="mailto:williamwangyq@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" height="20"> 
+  <a href="https://www.linkedin.com/in/williamwangyq/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20">
+</a>
+
+---
+
+### 📌 Pinned Projects:
+Find below some of my latest projects!
+
+| Project Name          | Description                              | Tech Stack       |
+|-----------------------|------------------------------------------|------------------|
+| **[Sentiment Analysis for ChatGPT Reviews](https://github.com/CyberSnorlax/ChatGpt-Reviews-Sentiment-Analysis)** | Sentiment Analysis for user reviews on ChatGPT before and after updates, most common keywords and bigrams       | Python           |
