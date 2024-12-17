@@ -24,4 +24,4 @@ Find below some of my latest projects!
 | Project Name          | Description                              | Tech Stack       |
 |-----------------------|------------------------------------------|------------------|
 | **[Sentiment Analysis for ChatGPT Reviews](https://github.com/CyberSnorlax/ChatGpt-Reviews-Sentiment-Analysis)** | Sentiment Analysis for user reviews on ChatGPT before and after updates, most common keywords and bigrams       | Python           |
-| **[Pharmacy Spacial Analysis with Demogrpahics](https://public.tableau.com/app/profile/william.wang3389/viz/Tab520241204WilliamV5/Dashboard1?publish=yes)** | Geographic distribution and densities of pharma locations in relation to ward-level demographics to uncover underserved communities and potential healthcare disparities   | Tableau |
+| **[Pharmacy Spacial Analysis with Demogrpahics](https://public.tableau.com/app/profile/william.wang3389/viz/Tab520241216WilliamV8/Dashboard1?publish=yes)** | Geographic distribution and densities of pharma locations in relation to ward-level demographics to uncover underserved communities and potential healthcare disparities   | Tableau |
