@@ -7,7 +7,7 @@
 📚 **About Me**:
 - 🔭 I’m currently a Master Student at Columbia studying [Quantitative Methods in Social Science](https://qmss.columbia.edu/content/focuses)...
 - 🌱 Learning Deep learning, machine learning and data anlaytics techniques.
-- 💬 Ask me about strategy consulting, NLP and data science projects, badminton, early-stage product creation and more.
+- 💬 Talk to me about strategy consulting, NLP and data science projects, badminton, early-stage product creation and more.
 
 📫 **Let's Connect**:
 - <a href="mailto:williamwangyq@gmail.com">
